@@ -1,4 +1,7 @@
 # NCAA-Quarterback-Eval
+
+Full Results (2013-2021) Here: https://docs.google.com/spreadsheets/d/1gW_2UKQDlHQMA9MUbOvTRwH4sRUXjBAEOrUl1y1gWpw/edit?usp=sharing
+
 A Bayesian-inspired methodology for grading NCAA quarterbacks. Takes into account per-play impact, recruiting ratings, strength of schedule, etc.
 
 Who is a better quarterback?

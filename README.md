@@ -38,4 +38,22 @@ These factors are combined as ppa_adj = (ppa_agg * agg_wt + ppa_pred * pred_wt +
 
 5. Finally, we produce the overall rating, or ppa_ovr, or simply ovr. This is the ppa_adj rating, scaled to a normal distribution with mean=50, std=10, borrowing from the MLB scouting (20-80) scale. (See fangraphs explanation here: https://blogs.fangraphs.com/scouting-explained-the-20-80-scouting-scale/)
 
-And that is it! A talent-adjusted, defense-adjusted, playing-time-rewarding system for evaluating quarterbacks, even those that have yet to play a down!
+And that is it! A talent-adjusted, defense-adjusted, playing-time-rewarding system for evaluating quarterbacks, even those that have yet to play a down! See the notebook for results, and in the meantime, your **top 10 QBs in college football as of 10/19/2021...**
+
+1. Matt Corral (Ole Miss) - 90.1
+2. Sam Howell (North Carolina) - 86.1
+3. Micale Cunningham (Louisville) - 85.8
+4. C.J. Stroud (Ohio State) - 85.2
+5. Tanner Morgan (Minnesota) - 84.9
+6. Adrian Martinez (Nebraska) - 84.6
+7. Bryce Young (Alabama) - 84.6
+8. Sean Clifford (Penn State) - 84.2
+9. Dorian Thompson-Robinson (UCLA) - 83.5
+10. Grayson McCall (Coastal Carolina) - 83.1
+
+**And, the top 5 since 2013:**
+1. Kyler Murray (Oklahoma) - 99.7
+2. Baker Mayfield (Oklahoma) - 97.5
+3. Tua Tagovailoa (Alabama) - 96.6
+4. Mac Jones (Alabama) - 96.4
+5. Joe Burrow (LSU) - 95.7

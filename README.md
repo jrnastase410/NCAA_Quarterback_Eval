@@ -40,20 +40,20 @@ These factors are combined as ppa_adj = (ppa_agg * agg_wt + ppa_pred * pred_wt +
 
 And that is it! A talent-adjusted, defense-adjusted, playing-time-rewarding system for evaluating quarterbacks, even those that have yet to play a down! See the notebook for results, and in the meantime, your **top 10 QBs in college football as of 10/19/2021...**
 
-1. Matt Corral (Ole Miss) - 90.1
-2. Sam Howell (North Carolina) - 86.1
-3. Micale Cunningham (Louisville) - 85.8
-4. C.J. Stroud (Ohio State) - 85.2
-5. Tanner Morgan (Minnesota) - 84.9
-6. Adrian Martinez (Nebraska) - 84.6
-7. Bryce Young (Alabama) - 84.6
-8. Sean Clifford (Penn State) - 84.2
-9. Dorian Thompson-Robinson (UCLA) - 83.5
-10. Grayson McCall (Coastal Carolina) - 83.1
+1. Matt Corral (Ole Miss) - 74.1
+2. Sam Howell (North Carolina) - 67.8
+3. Micale Cunningham (Louisville) - 67.3
+4. C.J. Stroud (Ohio State) - 66.3
+5. Tanner Morgan (Minnesota) - 65.9
+6. Adrian Martinez (Nebraska) - 65.4
+7. Brock Purdy (Iowa State) - 65.4
+8. Bryce Young (Alabama) - 65.4
+9. Sean Clifford (Penn State) - 64.7
+10. Dorian Thompson-Robinson (UCLA) - 63.7
 
 **And, the top 5 since 2013:**
-1. Kyler Murray (Oklahoma) - 99.7
-2. Baker Mayfield (Oklahoma) - 97.5
-3. Tua Tagovailoa (Alabama) - 96.6
-4. Mac Jones (Alabama) - 96.4
-5. Joe Burrow (LSU) - 95.7
+1. Kyler Murray (Oklahoma) - 89.4
+2. Baker Mayfield (Oklahoma) - 86.1
+3. Tua Tagovailoa (Alabama) - 84.6
+4. Mac Jones (Alabama) - 84.2
+5. Joe Burrow (LSU) - 83.1

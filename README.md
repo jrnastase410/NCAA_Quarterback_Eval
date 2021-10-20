@@ -1,4 +1,4 @@
-# NCAA-Quarterback-Eval
+# NCAA_Quarterback_Eval
 
 Full Results (2013-2021) Here: https://docs.google.com/spreadsheets/d/1gW_2UKQDlHQMA9MUbOvTRwH4sRUXjBAEOrUl1y1gWpw/edit?usp=sharing
 
